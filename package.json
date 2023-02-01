@@ -9,6 +9,6 @@
   "author": "Moshood Abidemi",
   "license": "ISC",
   "dependencies": {
-    "mongoose": "^5.9.3"
+    "mongoose": "^5.13.15"
   }
 }
